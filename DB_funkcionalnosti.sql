@@ -1,5 +1,6 @@
 -- Pogledi
 
+
 -- Svi korisnici koji nisu vratili knjigu (aktivne pozajmice)
 CREATE VIEW vw_AktivnePozajmice AS
 SELECT 
